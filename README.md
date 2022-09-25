@@ -1,6 +1,8 @@
 # graphics-givinghawk
 Graphics made by [Givinghawk](https://github.com/givinghawk)
 
+You can use this repository as a cdn, just use the domain [hosting-graphics.givinghawk.me](https://hosting-graphics.givinghawk.me). Make sure to append the file name **and directory** (/Servers for server graphics) to the URL.
+
 <details>
 	<summary>With image preview</summary>
 	<ul>
