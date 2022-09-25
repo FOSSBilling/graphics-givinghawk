@@ -1,5 +1,5 @@
 # graphics-givinghawk
-Graphics made by Givinghawk
+Graphics made by [Givinghawk](https://github.com/givinghawk)
 
 <details>
 	<summary>With image preview</summary>
