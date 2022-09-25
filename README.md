@@ -22,10 +22,10 @@ Graphics made by Givinghawk
 <li>upgradeable-1-server-small-arrow-infront.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main//Servers/svg/transparent/upgradeable-1-server-small-arrow-infront.svg">
 <li>upgradeable-3-servers-arrow-infront.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers/svg/transparent/upgradeable-3-servers-arrow-infront.svg">
 <li>upgradeable-6-servers-arrow-infront.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers/svg/transparent/upgradeable-6-servers-arrow-infront.svg">
-	  <li>server-bright-yellow-!.png</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers/transparent/svg/server-bright-yellow-!.svg">
-	<li>server-red-!.png</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers/transparent/svg/server-red-!.svg">
-	<li>server-x.png</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers/transparent/svg/server-x.svg">
-	<li>server-green-check.png</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers/transparent/svg/server-green-check.svg">
+	  <li>server-bright-yellow-!.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers/transparent/svg/server-bright-yellow-!.svg">
+	<li>server-red-!.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers/transparent/svg/server-red-!.svg">
+	<li>server-x.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers/transparent/svg/server-x.svg">
+	<li>server-green-check.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers/transparent/svg/server-green-check.svg">
   </ul>
     <li>  1-server.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers/svg//1-server.svg?raw=true">
 <li>2-servers.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers/svg//2-servers.svg">
@@ -39,10 +39,10 @@ Graphics made by Givinghawk
 <li>upgradeable-1-server-small-arrow-infront.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main//Servers/svg//upgradeable-1-server-small-arrow-infront.svg">
 <li>upgradeable-3-servers-arrow-infront.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers/svg//upgradeable-3-servers-arrow-infront.svg">
 <li>upgradeable-6-servers-arrow-infront.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers/svg//upgradeable-6-servers-arrow-infront.svg">
-	  <li>server-bright-yellow-!.png</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers//svg/server-bright-yellow-!.svg">
-	<li>server-red-!.png</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers//svg/server-red-!.svg">
-	<li>server-x.png</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers//svg/server-x.svg">
-	<li>server-green-check.png</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers//svg/server-green-check.svg">
+	  <li>server-bright-yellow-!.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers//svg/server-bright-yellow-!.svg">
+	<li>server-red-!.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers//svg/server-red-!.svg">
+	<li>server-x.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers//svg/server-x.svg">
+	<li>server-green-check.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers//svg/server-green-check.svg">
   </ul>
   <li>transparent</li>
   <ul>
@@ -90,18 +90,22 @@ Graphics made by Givinghawk
   <ul>
     <li>transparent</li>
   <ul>
-    <li>  1-server.png</li>
-<li>2-servers.png</li>
-<li>3-servers.png</li>
-<li>4-servers.png</li>
-<li>5-servers.png</li>
-<li>6-servers.png</li>
-<li>upgradeable-1-server.png</li>
-<li>upgradeable-3-servers.png</li>
-<li>upgradeable-6-servers.png</li>
-<li>upgradeable-1-server-small-arrow-infront.png</li>
-<li>upgradeable-3-servers-arrow-infront.png</li>
-<li>upgradeable-6-servers-arrow-infront.png</li>
+    <li>  1-server.svg</li>
+<li>2-servers.svg</li>
+<li>3-servers.svg</li>
+<li>4-servers.svg</li>
+<li>5-servers.svg</li>
+<li>6-servers.svg</li>
+<li>upgradeable-1-server.svg</li>
+<li>upgradeable-3-servers.svg</li>
+<li>upgradeable-6-servers.svg</li>
+<li>upgradeable-1-server-small-arrow-infront.svg</li>
+<li>upgradeable-3-servers-arrow-infront.svg</li>
+<li>upgradeable-6-servers-arrow-infront.svg</li>
+	  <li>server-bright-yellow-!.svg</li>
+	<li>server-red-!.svg</li>
+	<li>server-x.svg</li>
+	<li>server-green-check.svg</li>
   </ul>
     <li>  1-server.svg</li>
 <li>2-servers.svg</li>
@@ -115,6 +119,10 @@ Graphics made by Givinghawk
 <li>upgradeable-1-server-small-arrow-infront.svg</li>
 <li>upgradeable-3-servers-arrow-infront.svg</li>
 <li>upgradeable-6-servers-arrow-infront.svg</li>
+	  <li>server-bright-yellow-!.svg</li>
+	<li>server-red-!.svg</li>
+	<li>server-x.svg</li>
+	<li>server-green-check.svg</li>
   </ul>
   <li>transparent</li>
   <ul>
@@ -130,6 +138,10 @@ Graphics made by Givinghawk
 <li>upgradeable-1-server-small-arrow-infront.png</li>
 <li>upgradeable-3-servers-arrow-infront.png</li>
 <li>upgradeable-6-servers-arrow-infront.png</li>
+	  <li>server-bright-yellow-!.png</li>
+	<li>server-red-!.png</li>
+	<li>server-x.png</li>
+	<li>server-green-check.png</li>
   </ul>
     
 <li>  1-server.png</li>
@@ -144,5 +156,9 @@ Graphics made by Givinghawk
 <li>upgradeable-1-server-small-arrow-infront.png</li>
 <li>upgradeable-3-servers-arrow-infront.png</li>
 <li>upgradeable-6-servers-arrow-infront.png</li>
+	<li>server-bright-yellow-!.png</li>
+	<li>server-red-!.png</li>
+	<li>server-x.png</li>
+	<li>server-green-check.png</li>
 
 </ul>
