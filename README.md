@@ -8,12 +8,12 @@ Graphics made by Givinghawk
   <ul>
     <li>transparent</li>
   <ul>
-    <li>  1-server.png</li> ![1-server.png](./Servers/svg/transparent/1-server.png)
-<li>2-servers.png</li> ![2-servers.png](./Servers/svg/transparent/2-servers.png)
-<li>3-servers.png</li> ![3-servers.png](./Servers/svg/transparent/3-servers.png)
-<li>4-servers.png</li> ![4-servers.png](./Servers/svg/transparent/4-servers.png)
-<li>5-servers.png</li> ![5-servers.png](./Servers/svg/transparent/5-servers.png)
-<li>6-servers.png</li> ![6-servers.png](./Servers/svg/transparent/6-servers.png)
+    <li>  1-server.png</li> <img src="./Servers/svg/transparent/1-server.png">
+<li>2-servers.png</li> <img src="./Servers/svg/transparent/2-servers.png">
+<li>3-servers.png</li> <img src="./Servers/svg/transparent/3-servers.png">
+<li>4-servers.png</li> <img src="./Servers/svg/transparent/4-servers.png">
+<li>5-servers.png</li> <img src="./Servers/svg/transparent/5-servers.png">
+<li>6-servers.png</li> <img src="./Servers/svg/transparent/6-servers.png">
 <li>upgradeable-1-server.png</li> ![upgradeable-1-server.png](./Servers/svg/transparent/upgradeable-1-server.png)
 <li>upgradeable-3-servers.png</li> ![upgradeable-3-servers.png](./Servers/svg/transparent/upgradeable-3-servers.png)
 <li>upgradeable-6-servers.png</li> ![upgradeable-6-servers.png](./Servers/svg/transparent/upgradeable-6-servers.png)
