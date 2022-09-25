@@ -21,18 +21,18 @@ Graphics made by Givinghawk
 <li>upgradeable-3-servers-arrow-infront.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers/svg/transparent/upgradeable-3-servers-arrow-infront.svg">
 <li>upgradeable-6-servers-arrow-infront.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers/svg/transparent/upgradeable-6-servers-arrow-infront.svg">
   </ul>
-    <li>  1-server.svg</li>
-<li>2-servers.svg</li>
-<li>3-servers.svg</li>
-<li>4-servers.svg</li>
-<li>5-servers.svg</li>
-<li>6-servers.svg</li>
-<li>upgradeable-1-server.svg</li>
-<li>upgradeable-3-servers.svg</li>
-<li>upgradeable-6-servers.svg</li>
-<li>upgradeable-1-server-small-arrow-infront.svg</li>
-<li>upgradeable-3-servers-arrow-infront.svg</li>
-<li>upgradeable-6-servers-arrow-infront.svg</li>
+    <li>  1-server.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers/svg//1-server.svg?raw=true">
+<li>2-servers.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers/svg//2-servers.svg">
+<li>3-servers.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers/svg//3-servers.svg">
+<li>4-servers.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers/svg//4-servers.svg">
+<li>5-servers.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers/svg//5-servers.svg">
+<li>6-servers.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers/svg//6-servers.svg">
+<li>upgradeable-1-server.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main//Servers/svg//upgradeable-1-server.svg">
+<li>upgradeable-3-servers.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main//Servers/svg//upgradeable-3-servers.svg">
+<li>upgradeable-6-servers.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main//Servers/svg//upgradeable-6-servers.svg">
+<li>upgradeable-1-server-small-arrow-infront.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main//Servers/svg//upgradeable-1-server-small-arrow-infront.svg">
+<li>upgradeable-3-servers-arrow-infront.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers/svg//upgradeable-3-servers-arrow-infront.svg">
+<li>upgradeable-6-servers-arrow-infront.svg</li> <img src="https://github.com/FOSSBilling/graphics-givinghawk/blob/main/Servers/svg//upgradeable-6-servers-arrow-infront.svg">
   </ul>
   <li>transparent</li>
   <ul>
